@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 Create a `.env` file and add any necessary configuration keys (API keys, secret tokens, etc.).
 
-### Pull Large Files (if using Git LFS)
+### Pull Large Files
 
 ```bash
 git lfs install
