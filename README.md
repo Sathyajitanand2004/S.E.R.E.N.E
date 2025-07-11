@@ -123,7 +123,6 @@ python main.py
 ## Acknowledgements
 
 * Sri Venkateswara College of Engineering
-* AffectNet and Aff-Wild2 datasets
 * Open-source community and research contributors
 
 ---
