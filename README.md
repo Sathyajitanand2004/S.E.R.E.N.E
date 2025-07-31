@@ -57,6 +57,12 @@ Mental health is essential for managing stress, maintaining healthy relationship
 
 ---
 
+## Model Accuracy Highlights:
+- **Voice Emotion (Wav2Vec2)**: `90.58%`
+- **Face Emotion (ResNet50)**: `77.3%`
+- **RAG Retrieval Confidence**: `90.24%`
+  
+---
 ## Getting Started
 
 ### Clone the Repository
